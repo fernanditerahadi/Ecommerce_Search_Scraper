@@ -21,23 +21,26 @@ relational schema of the "Tokopedia.sqlite", please navigate to the
 'Sample Result' folder.
 
 List of retrieved information :
-Product id
-Product department id
-Product department name
-Product condition
-Product price
-Product discount percentage
-Product view count
-Product review count
-Product sold count
-Product successful transaction count
-Product reject count
-Product rating
-Product label
-Product badge
-Product url
-Store id
-Store name
-Store location
-Store url
-Store gold status
+-Product id
+-Product department id
+-Product department name
+-Product condition
+-Product price
+-Product discount percentage
+-Product view count
+-Product review count
+-Product sold count
+-Product successful transaction count
+-Product reject count
+-Product rating
+-Product label
+-Product badge
+-Product url
+-Store id
+-Store name
+-Store location
+-Store url
+-Store gold status
+
+November 2017
+
