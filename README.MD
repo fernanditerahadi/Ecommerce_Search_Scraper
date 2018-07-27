@@ -42,5 +42,9 @@ List of retrieved information :
 -Store url
 -Store gold status
 
+== Relational Schema == 
+
+![Relational Schema](https://github.com/fernanditerahadi/Ecommerce_Search_Scraper/blob/master/Sample%20Result/Tokoscrap%20Relational%20Schema.png)
+
 November 2017
 
