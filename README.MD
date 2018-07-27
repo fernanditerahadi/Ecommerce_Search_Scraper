@@ -12,14 +12,6 @@ file. DB Browser for SQLite (free) could be downloaded through the following lin
   move them to a designated location in your system.
 2. Execute tokoscrap.exe
 
-Unfortunately, the standalone application will only work on Windows. For MAC OSX user,
-please execute the 'tokoscrap.py' file found in the 'Source Code' folder using Python Shell
-installed in your system. Please do note that once the program is executed,
-it will create a “Tokopedia.sqlite” file in the same folder. To view the retrieved data,
-please open the “Tokopedia.sqlite” file. To see the sample result and the
-relational schema of the "Tokopedia.sqlite", please navigate to the
-'Sample Result' folder.
-
 List of retrieved information :
 -Product id
 -Product department id
